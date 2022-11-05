@@ -5,7 +5,7 @@ import math
 #from sympy import *
 
 print("""
->>>>>>REGULAR EXPONENTIAL REGRESSION<<<<<<
+>>>>>>REGULAR EXPONENT REGRESSION<<<<<<
 *
 *
 *
